@@ -7,7 +7,7 @@ import numpy as np
 """
 Chollet, François (2018): Deep learning with Python. Shelter Island, NY: Manning.
 https://github.com/fchollet/deep-learning-with-python-notebooks
-Page 27-
+Page 27-30
 
 execute: python src/03_classifiying_handwritten_numbers.py
 """
